@@ -10,6 +10,31 @@ A simple front-end website is responsive. It could be advantageous for your webs
 ## Demo
 
 
+## Run Locally
+
+Clone the project
+
+```bash
+  git clone https://github.com/Adem-Berrabia/FrontWeb-MUI
+```
+
+Go to the project directory
+
+```bash
+  cd FrontWeb-MUI
+```
+
+Install dependencies
+
+```bash
+  npm i
+```
+
+Start the server
+
+```bash
+  npm start
+```
 
 ## Author : Adem Berrabia
 
